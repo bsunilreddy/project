@@ -30,3 +30,6 @@ git push -u origin master
 git remote add origin https://github.com/bsunilreddy/project.git
 git push -u origin master
 sudo su
+sudo systemctl start genkins
+sudo systemctl restart genkins
+sudo systemctl restart jenkins
