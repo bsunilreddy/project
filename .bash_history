@@ -22,3 +22,11 @@ which jenkins
 sudo start genkins
 sudo systemctl restart jenkins
 git --version
+sudo su
+git push orgin main
+git push -u origin main
+git remote add origin https://github.com/bsunilreddy/project.git
+git push -u origin master
+git remote add origin https://github.com/bsunilreddy/project.git
+git push -u origin master
+sudo su
